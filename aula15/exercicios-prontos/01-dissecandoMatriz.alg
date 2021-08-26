@@ -5,9 +5,6 @@ algoritmo "dissecandoMatrizes"
 // - Os elementos do triangulo superior
 // - Os elementos do triangulo inferior
 // - A matriz completa
-//
-// AUTOR: Gustavo Guanabara
-// Curso COMPLETO disponivel GRATIS no site www.cursoemvideo.com
 // =============================================================
 var
   m: vetor[1..4, 1..4] de Inteiro
